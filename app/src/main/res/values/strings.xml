@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+
+
+    <string name="app_name">Backup Tunisie Télecom</string>
+    <string name="action_settings">Parametres</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_sdcard">Pas de carte memoire</string>
+    <string name="sms_backup">SMS Backup</string>
+    <string name="contacts_backup">Contacts Backup</string>
+    <string name="call_logs_backup">Appels Backup</string>
+    <string name="calendars_backup">Calendriers Backup</string>
+    <string name="bookmarks_backup">Favoris Backup</string>
+    <string name="date_created">date de creation</string>
+    <string name="name_for_backup_file">Veuillez choisir le nom de votre fichier:</string>
+    <string name="_storage_sdcard0_smscontactsbackups_sms">/storage/sdcard0/smsContactsBackups/sms</string>
+    <string name="enter_file_name">Choisir le nom du fichier</string>
+    <string name="bookmarks">Favoris</string>
+    <string name="last_backup">Dernier backup</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restaurer</string>
+    <string name="view_backups">Voir Backups</string>
+    <string name="send_to_email">Envoyer à l email</string>
+    <string name="delete_backups">Supprimer Backups</string>
+    <string name="delete_all_bookmarks">Supprimer Favoris</string>
+    <string name="bookmarks_backups">Favoris Backups</string>
+    <string name="call_logs_backups">Appels Backups</string>
+    <string name="call_logs">Appels Logs</string>
+    <string name="delete_all_call_logs">Supprimer tous les appels</string>
+    <string name="contacts_backups">Contacts Backups</string>
+    <string name="contacts">Contacts</string>
+    <string name="delete_all_contacts">Supprimer tous les Contacts</string>
+    <string name="sms_backups">SMS Backups</string>
+    <string name="delete_all_messages">Supprimer tous les Messages</string>
+    <string name="free">libre</string>
+    <string name="storage_used">Stockage utilisé</string>
+    <string name="sdcard_is_not_accessible">Carte mémoire non accessible</string>
+    <string name="insufficient_space_on_sdcard">Il n a pas d espace suffisant à la carte mémoire</string>
+    <string name="never_backup">Jamais Backuped</string>
+    <string name="send_to_email_backup">Backup réussi!</string>
+    <string name="restore_completed_successfully_">Informations restaurés!</string>
+    <string name="backuping_files_please_wait_">Attendez quelques minutes...</string>
+    <string name="send_mail">Envoyer mail...</string>
+    <string name="delete_files">Supprimer fichiers</string>
+    <string name="OK">Ok</string>
+    <string name="backup_files">Backup fichiers</string>
+    <string name="cancel">Annuler</string>
+    <string name="delete">Supprimer</string>
+    <string name="deleted_successfully_">Supprimé!</string>
+    <string name="are_you_sure_you_wan_to_delete_all_the_bookmarks_on_the_phone_">Voulez vous supprimer tous les favoris?</string>
+    <string name="deleting_all_bookmarks_">Suppression des favoris...</string>
+    <string name="bookmarks_deleted_successfully_">Favoris supprimés!</string>
+    <string name="restoring_backups_">Restoring Backups...</string>
+    <string name="view_bookmarks">Voir Favoris</string>
+    <string name="there_was_a_problem_loading_the_application_">"There was a problem loading the application: "</string>
+    <string name="are_you_sure_you_wan_to_delete_all_the_call_logs_on_the_phone_">Voulez vous supprimer tous les appels?</string>
+    <string name="panic">Panique</string>
+    <string name="deleting_all_calllogs_">Suppression des appels...</string>
+    <string name="deleting_all_call_logs_">Suppression des appels...</string>
+    <string name="call_logs_deleted_successfully_">Appels supprimés!</string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="send">Envoyer</string>
+    <string name="view_messages">Voir Messages</string>
+    <string name="deleting_all_sms_"> Suppression SMS...</string>
+    <string name="exporting_file_please_wait_">Attendez s il vous plait...</string>
+    <string name="are_you_sure_you_wan_to_delete_all_the_contacts_on_the_phone_">Voulez vous supprimer tous les Contacts?</string>
+    <string name="deleting_all_contacts_">Suppression des Contacts...</string>
+    <string name="contacts_deleted_successfully_">Contacts supprimés!</string>
+    <string name="send_mail_">Envoyer mail...</string>
+    <string name="used">utilisé</string>
+    <string name="menu_settings">Parametres</string>
+    <string name="Name">nom</string>
+    <string name="mail">mail</string>
+    <string name="openDrawer">ouvrir</string>
+    <string name="closeDrawer">fermer</string>
+    <string name="textAbout">Toujours à l’écoute de son aimable clientèle, Tunisie Telecom continue à enrichir son éventail de services et offre le service backup tunisie telecom  à toute sa clientèle mobile.</string>
+    <string name="textAboutd">Backup tunisie telecom  c’est quoi ? backup tunisie telecom  est une application  qui permet la sauvegarde, la restauration des contacts, SMS et fichiers (photos, musiques…) ainsi que la migration des données d’un mobile à un autre et ce en mode sécurisé.</string>
+</resources>
